@@ -1,5 +1,5 @@
 # Multi-User-Video-Call
-Building a Link AND Library in Flutter.
+Building a Multi-User-Video-Call in Flutter.
 
 Show some ❤️ and star the repo to support the project Screenshots
 
